@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manideep Bishnoi</h1>
-<h3 align="center">💻 Full Stack MERN Developer | Software Developer | DSA Enthusiast                                                                              I'm a Final Year Computer Science Engineering student passionate about building scalable web applications and solving real-world problems.</h3>
+<h3 align="center">💻 Full Stack MERN Developer | Software Developer | DSA Enthusiast.                                                                            I'm a Final Year Computer Science Engineering student passionate about building scalable web applications and solving real-world problems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manideep-bishnoi" alt="manideep-bishnoi" /></a> </p>
 
